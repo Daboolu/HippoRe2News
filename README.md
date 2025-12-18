@@ -4,5 +4,6 @@ This project is based on Graph RAG—HippoRAG2 to implement news retrieval funct
 ![效果展示](./assets/comparison.jpg)
 ![效果展示](./assets/Graphvis.jpg)
 ![效果展示](./assets/graphvis2.jpg)
+![show-display](./assets/display-show.gif)
 ![框架图](./assets/framework.png)
 
